@@ -18,16 +18,45 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Form12", 
-            "Form12.json"
+            "Home", 
+            "Home.json"
           ]
         }, 
         {
           "!type": "External", 
           "file": [
             "forms", 
-            "Form13", 
-            "Form13.json"
+            "Shop", 
+            "Shop.json"
+          ]
+        }, 
+        {
+          "!type": "Code", 
+          "cached_js": null, 
+          "cached_js_script_hash": null, 
+          "children": [], 
+          "expanded_pmp": null, 
+          "id": "GG_JPG", 
+          "language": "Other", 
+          "loadType": "", 
+          "obfuscate": "false", 
+          "script": "", 
+          "src": "GG.JPG"
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Style", 
+            "Style.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Style1", 
+            "Style1.json"
           ]
         }
       ], 
@@ -43,7 +72,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form12", 
+      "firstform": "Home", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
