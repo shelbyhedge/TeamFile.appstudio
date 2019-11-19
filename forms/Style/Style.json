@@ -2,7 +2,7 @@
   "!type": "Form", 
   "HTML": null, 
   "attributes": "", 
-  "background": "", 
+  "background": "#FCFBF6", 
   "backgroundimage": "", 
   "borderColor": "", 
   "borderStyle": "", 
@@ -16,7 +16,7 @@
         "forms", 
         "Style", 
         "Elements", 
-        "Navs1Copy1.json"
+        "btnStyleCopy1.json"
       ]
     }, 
     {
@@ -25,7 +25,7 @@
         "forms", 
         "Style", 
         "Elements", 
-        "Image1Copy1.json"
+        "Label1CopyCopy.json"
       ]
     }, 
     {
@@ -34,7 +34,7 @@
         "forms", 
         "Style", 
         "Elements", 
-        "Button1.json"
+        "Hamburger1Copy.json"
       ]
     }
   ], 

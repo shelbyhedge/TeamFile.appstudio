@@ -4,8 +4,8 @@
   "attributes": "", 
   "background": "#FCFBF6", 
   "backgroundimage": "", 
-  "borderColor": "", 
-  "borderStyle": "", 
+  "borderColor": "blue", 
+  "borderStyle": "solid", 
   "borderWidth": "", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
@@ -14,37 +14,73 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Home", 
+        "Q1", 
         "Elements", 
-        "navShop.json"
+        "btnStyle.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "Home", 
+        "Q1", 
         "Elements", 
-        "Image1.json"
+        "btnStyleCopy3.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "Home", 
+        "Q1", 
         "Elements", 
-        "PhotoGallery1.json"
+        "btnStyleCopy4.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Q1", 
+        "Elements", 
+        "btnStyleCopy5.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Q1", 
+        "Elements", 
+        "Label1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Q1", 
+        "Elements", 
+        "Hamburger1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Q1", 
+        "Elements", 
+        "Label1Copy.json"
       ]
     }
   ], 
-  "class": "", 
+  "class": "square", 
   "designHeight": 0, 
   "designWidth": 0, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "Home", 
+  "id": "Q1", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -57,8 +93,8 @@
   "parentForm": "", 
   "position": "absolute", 
   "script": null, 
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:true", 
-  "scrolling": "true", 
+  "scroll_options": "mouseWheel:true, bounce:true, zoom:false", 
+  "scrolling": "false", 
   "setFocusID": "", 
   "style": "", 
   "theme": "", 

@@ -2,10 +2,10 @@
   "!type": "Form", 
   "HTML": null, 
   "attributes": "", 
-  "background": "", 
+  "background": "#FCFBF6", 
   "backgroundimage": "", 
-  "borderColor": "", 
-  "borderStyle": "", 
+  "borderColor": "white", 
+  "borderStyle": "outset", 
   "borderWidth": "", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
@@ -16,7 +16,7 @@
         "forms", 
         "Shop", 
         "Elements", 
-        "Navs1Copy.json"
+        "Hamburger1Copy1.json"
       ]
     }, 
     {
@@ -25,7 +25,52 @@
         "forms", 
         "Shop", 
         "Elements", 
-        "Image1Copy.json"
+        "Label1CopyCopy1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "Line1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "Image1Copy2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "Image1Copy2Copy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "Image1Copy2CopyCopy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "Image1Copy2CopyCopy1.json"
       ]
     }
   ], 
