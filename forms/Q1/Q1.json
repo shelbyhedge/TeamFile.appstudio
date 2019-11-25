@@ -16,7 +16,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "btnStyle.json"
+        "btnB.json"
       ]
     }, 
     {
@@ -25,7 +25,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "btnStyleCopy3.json"
+        "btnC.json"
       ]
     }, 
     {
@@ -34,7 +34,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "btnStyleCopy4.json"
+        "btnD.json"
       ]
     }, 
     {
@@ -43,7 +43,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "btnStyleCopy5.json"
+        "btnA.json"
       ]
     }, 
     {
@@ -52,7 +52,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "Label1.json"
+        "qNumber.json"
       ]
     }, 
     {
@@ -61,7 +61,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "Hamburger1.json"
+        "hmbQuiz.json"
       ]
     }, 
     {
@@ -70,7 +70,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "Label1Copy.json"
+        "lblQuestion.json"
       ]
     }
   ], 

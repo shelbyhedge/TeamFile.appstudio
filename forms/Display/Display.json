@@ -2,7 +2,7 @@
   "!type": "Form", 
   "HTML": null, 
   "attributes": "", 
-  "background": "", 
+  "background": "#FCFBF6", 
   "backgroundimage": "", 
   "borderColor": "", 
   "borderStyle": "", 
@@ -14,9 +14,36 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Social", 
+        "Display", 
         "Elements", 
-        "Camera1.json"
+        "Image4.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "Price.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "Description.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "PriceCopy.json"
       ]
     }
   ], 
@@ -26,7 +53,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "Social", 
+  "id": "Display", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
