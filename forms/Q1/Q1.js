@@ -11,51 +11,53 @@ let colorScore = color.length
 let qNumber = questionNum.length
 let winner = ""
 
+for (i = 1; i <= 7; i++) {
 Q1.onshow=function() {
-btnA.onclick=function(){
-questionNum.push("1")
-simple.push("1")
-}
 
-btnB.onclick=function(){
-questionNum.push("1")
-color.push("1")
-}
+  btnA.onclick=function(){
+  questionNum.push("1")
+  simple.push("1")
+  }
 
-btnC.onclick=function(){
-questionNum.push("1")
-pink.push("1")
-}
+  btnB.onclick=function(){
+  questionNum.push("1")
+  color.push("1")
+  }
 
-btnD.onclick=function(){
-questionNum.push("1")
-black.push("1")
-}
+  btnC.onclick=function(){
+  questionNum.push("1")
+  pink.push("1")
+  }
+
+  btnD.onclick=function(){
+  questionNum.push("1")
+  black.push("1")
+  }
 
 switch (qNumber) {
 case 1:
-  let lblQuestion.text = "How would you describe your look?"
-  let btnA.value = "EFFORTLESS AND LAIDBACK"
-  let btnB.value = "I LIKE MAKING A STATEMENT"
-  let btnC.value = "PRETTY WITH DETAIL"
-  let btnD.value = "UNSTRUCTURED AND MONOCHROME"
-  let qNumber.text = "Question 1 of 7"
+  lblQuestion.text = "How would you describe your look?"
+  btnA.value = "EFFORTLESS AND LAIDBACK"
+  btnB.value = "I LIKE MAKING A STATEMENT"
+  btnC.value = "PRETTY WITH DETAIL"
+  btnD.value = "UNSTRUCTURED AND MONOCHROME"
+  qNumber.text = "Question 1 of 7"
   break;
 case 2:
-  let lblQuestion.text = 'Which of these stores is your go to?'
-  let btnA.value = "FREE PEOPLE"
-  let btnB.value = "GOODWILL - THIFTED FINDS"
-  let btnC.value = "VINEYARD VINES"
-  let btnD.value = "MADEWELL"
-  let qNumber.text = "Question 2 of 7"
+  lblQuestion.text = 'Which of these stores is your go to?'
+  btnA.value = "FREE PEOPLE"
+  btnB.value = "GOODWILL - THIFTED FINDS"
+  btnC.value = "VINEYARD VINES"
+  btnD.value = "MADEWELL"
+  qNumber.text = "Question 2 of 7"
   break;
 case 3:
-  let lblQuestion.text = "What's your go-to weekend activity?"
-  let btnA.value = "GOING TO YOGA & STAYIN ZEN"
-  let btnB.value = "GOING OUT WITH FRIENDS"
-  let btnC.value = "WATCHING TIK TOKS IN BED"
-  let btnD.value = "DINNER AT THE NEWEST RESTAURANT"
-  let qNumber.text = "Question 3 of 7"
+  lblQuestion.text = "What's your go-to weekend activity?"
+  btnA.value = "GOING TO YOGA & STAYIN ZEN"
+  btnB.value = "GOING OUT WITH FRIENDS"
+  btnC.value = "WATCHING TIK TOKS IN BED"
+  btnD.value = "DINNER AT THE NEWEST RESTAURANT"
+  qNumber.text = "Question 3 of 7"
   break;
 case 4:
   lblQuestion.text = "Pick one of the following outfits..."
@@ -90,10 +92,10 @@ case 7:
   btnD.value = "SOPHISTICATED GO GETTER"
   qNumber.text = "Question 7 of 7"
   break;
-}
+  }
 }
 
-
+if (qNumber == 7) {
 if (simpleScore >= pinkScore && simpleScore >= blackScore && simpleScore >= colorScore) {
   let winner = 'simple'
   alert(winner)
@@ -109,4 +111,5 @@ if (simpleScore >= pinkScore && simpleScore >= blackScore && simpleScore >= colo
 } else {
   let winner = 'random'
   alert(winner)
+}
 }

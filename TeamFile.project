@@ -108,6 +108,22 @@
             "Q2", 
             "Q2.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form2", 
+            "Form2.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -122,7 +138,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Style", 
+      "firstform": "Display", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
