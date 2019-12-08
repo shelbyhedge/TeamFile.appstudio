@@ -16,7 +16,7 @@
         "forms", 
         "Style", 
         "Elements", 
-        "btnQuiz.json"
+        "btnStyle.json"
       ]
     }, 
     {
@@ -25,7 +25,7 @@
         "forms", 
         "Style", 
         "Elements", 
-        "Label1CopyCopy.json"
+        "lblStyle.json"
       ]
     }, 
     {
@@ -34,7 +34,7 @@
         "forms", 
         "Style", 
         "Elements", 
-        "Hamburger1Copy.json"
+        "hmbStyle.json"
       ]
     }
   ], 

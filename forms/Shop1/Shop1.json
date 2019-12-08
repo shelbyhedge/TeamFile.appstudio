@@ -3,13 +3,86 @@
   "HTML": null, 
   "attributes": "", 
   "background": "#FCFBF6", 
+  "backgroundImage": "", 
   "backgroundimage": "", 
-  "borderColor": "white", 
-  "borderStyle": "outset", 
+  "borderColor": "gray", 
+  "borderStyle": "solid", 
   "borderWidth": "", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
   "children": [
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "i41.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "i21.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "i11.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "i31.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "l21.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "l11.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "l31.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop1", 
+        "Elements", 
+        "l41.json"
+      ]
+    }, 
     {
       "!type": "External", 
       "file": [
@@ -25,7 +98,7 @@
         "forms", 
         "Shop1", 
         "Elements", 
-        "search1.json"
+        "lNext1.json"
       ]
     }, 
     {
@@ -34,115 +107,34 @@
         "forms", 
         "Shop1", 
         "Elements", 
-        "line1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Image1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Image2.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Image0.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Image3.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Lable0.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Lable2.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Lable3.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Lable1.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Shop1", 
-        "Elements", 
-        "Lable3Copy.json"
+        "lBack.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 550, 
+  "designWidth": 375, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
+  "height": "550", 
   "id": "Shop1", 
   "language": "JavaScript", 
-  "left": "0", 
+  "left": 0, 
   "locked": false, 
   "modal": "false", 
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "", 
+  "onshow": "signUP.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
   "script": null, 
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false", 
+  "scroll_options": "mouseWheel:true, scrollbars:true, bounce:true, zoom:false", 
   "scrolling": "false", 
   "setFocusID": "", 
   "style": "", 
   "theme": "", 
-  "top": "0", 
-  "width": 320
+  "top": 0, 
+  "width": "375"
 }

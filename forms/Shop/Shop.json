@@ -1,0 +1,131 @@
+{
+  "!type": "Form", 
+  "HTML": null, 
+  "attributes": "", 
+  "background": "#FCFBF6", 
+  "backgroundImage": "", 
+  "backgroundimage": "", 
+  "borderColor": "gray", 
+  "borderStyle": "solid", 
+  "borderWidth": "", 
+  "cached_js": null, 
+  "cached_js_script_hash": null, 
+  "children": [
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "i4.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "i2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "i1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "i3.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "l2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "l1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "l3.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "l4.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "hmbShop.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Shop", 
+        "Elements", 
+        "lNext.json"
+      ]
+    }
+  ], 
+  "class": "", 
+  "designHeight": 550, 
+  "designWidth": 375, 
+  "expanded_pmp": null, 
+  "fullScreen": "true", 
+  "height": "550", 
+  "id": "Shop", 
+  "language": "JavaScript", 
+  "left": 0, 
+  "locked": false, 
+  "modal": "false", 
+  "onhide": "", 
+  "onkeypress": "", 
+  "onresize": "", 
+  "onshow": "signUP.onshow()", 
+  "openMode": "none", 
+  "parentForm": "", 
+  "position": "absolute", 
+  "script": null, 
+  "scroll_options": "mouseWheel:true, scrollbars:true, bounce:true, zoom:false", 
+  "scrolling": "false", 
+  "setFocusID": "", 
+  "style": "", 
+  "theme": "", 
+  "top": 0, 
+  "width": "375"
+}

@@ -52,7 +52,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "qNumber.json"
+        "lblNumber1.json"
       ]
     }, 
     {
@@ -61,7 +61,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "hmbQuiz.json"
+        "hmb1.json"
       ]
     }, 
     {
@@ -70,7 +70,7 @@
         "forms", 
         "Q1", 
         "Elements", 
-        "lblQuestion.json"
+        "lblQuestion1.json"
       ]
     }
   ], 

@@ -16,7 +16,7 @@
         "forms", 
         "Home", 
         "Elements", 
-        "navShop.json"
+        "logo.json"
       ]
     }, 
     {
@@ -25,7 +25,7 @@
         "forms", 
         "Home", 
         "Elements", 
-        "Logo.json"
+        "nav.json"
       ]
     }, 
     {
@@ -34,7 +34,7 @@
         "forms", 
         "Home", 
         "Elements", 
-        "PhotoGallery1.json"
+        "gallery.json"
       ]
     }
   ], 
@@ -43,7 +43,7 @@
   "designWidth": 0, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
+  "height": 736, 
   "id": "Home", 
   "language": "JavaScript", 
   "left": "0", 
@@ -57,11 +57,11 @@
   "parentForm": "", 
   "position": "absolute", 
   "script": null, 
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:true", 
-  "scrolling": "true", 
+  "scroll_options": "mouseWheel:true, bounce:true, zoom:false", 
+  "scrolling": "false", 
   "setFocusID": "", 
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 414
 }

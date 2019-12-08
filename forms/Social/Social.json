@@ -2,7 +2,7 @@
   "!type": "Form", 
   "HTML": null, 
   "attributes": "", 
-  "background": "", 
+  "background": "#FCFBF6", 
   "backgroundimage": "", 
   "borderColor": "", 
   "borderStyle": "", 
@@ -16,7 +16,43 @@
         "forms", 
         "Social", 
         "Elements", 
-        "Camera1.json"
+        "inptListing.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Social", 
+        "Elements", 
+        "btnInptListing.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Social", 
+        "Elements", 
+        "Image11.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Social", 
+        "Elements", 
+        "Ham.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Social", 
+        "Elements", 
+        "Image11Copy.json"
       ]
     }
   ], 
@@ -25,7 +61,7 @@
   "designWidth": 0, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
+  "height": 736, 
   "id": "Social", 
   "language": "JavaScript", 
   "left": "0", 
@@ -45,5 +81,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 414
 }

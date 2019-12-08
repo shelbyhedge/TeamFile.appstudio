@@ -16,7 +16,16 @@
         "forms", 
         "Display", 
         "Elements", 
-        "Image4.json"
+        "Title.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "Desc.json"
       ]
     }, 
     {
@@ -34,7 +43,43 @@
         "forms", 
         "Display", 
         "Elements", 
-        "Description.json"
+        "im1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "im3.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "im4.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "im2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Display", 
+        "Elements", 
+        "im5.json"
       ]
     }, 
     {
@@ -52,7 +97,7 @@
   "designWidth": 0, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
+  "height": 647, 
   "id": "Display", 
   "language": "JavaScript", 
   "left": "0", 
@@ -72,5 +117,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 375
 }
